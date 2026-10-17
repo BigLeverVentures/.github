@@ -22,7 +22,7 @@ Big Lever AI combines a purpose-built analysis platform with experienced investo
 
 **Methodical Gated Engineering** — an engineering workflow for Claude Code that combines planning, assumption testing, independent review, and human judgment at key decisions.
 
-**Commons** — a self-hosted community board for asks, offers, projects, and member connections.
+**[Commons](https://github.com/BigLeverVentures/Commons)** — a self-hosted community board for asks, offers, projects, and member connections.
 
 **[Big Lever Institute curriculum for educators](https://github.com/BigLeverVentures/bli-for-educators)** — the curriculum package: practical AI lessons, exercises, teaching resources, and complete examples educators can use or adapt. Use the lessons without installing our AI guides.
 
