@@ -40,4 +40,4 @@ We sponsor and run **Big Lever Institute**, a 501(c)(3) nonprofit providing free
 
 Explore our products, learn how the Collaboratory works, and find where your experience can contribute.
 
-[Big Lever Ventures →](https://bigleverventures.com/) · [How we work →](https://bigleverventures.com/how-we-work)
+[Big Lever Ventures →](https://bigleverventures.com/) · [Build with AI in the Collaboratory →](https://bigleverventures.com/how-we-work)
