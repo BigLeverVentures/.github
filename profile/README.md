@@ -24,7 +24,11 @@ Big Lever AI combines a purpose-built analysis platform with experienced investo
 
 **Commons** — a self-hosted community board for asks, offers, projects, and member connections.
 
-**Big Lever Institute exercises** — interactive learning resources for building practical AI capability.
+**[Big Lever Institute curriculum for educators](https://github.com/BigLeverVentures/bli-for-educators)** — the curriculum package: practical AI lessons, exercises, teaching resources, and complete examples educators can use or adapt. Use the lessons without installing our AI guides.
+
+**[Educator AI Guide Kit](https://github.com/BigLeverVentures/bli-educator-ai-guide-kit)** — the AI guide package: Guide Me for coaching and research, and Your Learning Path for personalized curriculum design. Includes the instructions, setup directions, and build recipe to adapt both guides to an educator’s own material, using one shared curriculum source.
+
+Both packages are free. Each repository explains its reuse permissions.
 
 ## Capability creates opportunity
 
