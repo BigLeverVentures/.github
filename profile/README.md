@@ -24,11 +24,11 @@ Big Lever AI combines a purpose-built analysis platform with experienced investo
 
 **[Commons](https://github.com/BigLeverVentures/Commons)** — a self-hosted community board for asks, offers, projects, and member connections.
 
-**[Big Lever Institute curriculum for educators](https://github.com/BigLeverVentures/bli-for-educators)** — the curriculum package: practical AI lessons, exercises, teaching resources, and complete examples educators can use or adapt. Use the lessons without installing our AI guides.
+**[Big Lever Institute curriculum for educators](https://github.com/BigLeverVentures/bli-for-educators)** — the curriculum package: practical AI lessons, exercises, teaching resources, and complete examples educators can use or adapt. Use the lessons without installing our AI guides. [Teaching-use license](https://github.com/BigLeverVentures/bli-for-educators/blob/main/LICENSE.md).
 
-**[Educator AI Guide Kit](https://github.com/BigLeverVentures/bli-educator-ai-guide-kit)** — the AI guide package: Guide Me for coaching and research, and Your Learning Path for personalized curriculum design. Includes the instructions, setup directions, and build recipe to adapt both guides to an educator’s own material, using one shared curriculum source.
+**[Educator AI Guide Kit](https://github.com/BigLeverVentures/bli-educator-ai-guide-kit)** — the AI guide package: Guide Me for coaching and research, and Your Learning Path for personalized curriculum design. Includes the instructions, setup directions, and build recipe to adapt both guides to an educator’s own material, using one shared curriculum source. [Teaching-use license](https://github.com/BigLeverVentures/bli-educator-ai-guide-kit/blob/main/LICENSE.md).
 
-Both packages are free. Each repository explains its reuse permissions.
+Both packages are free to adapt and share for teaching, including ordinary paid teaching and tuition-funded classes. The teaching-use grant does not permit repackaging for sale or charging specifically for access to covered materials. Learners may use their own work professionally and commercially. Prior CC BY rights in unchanged curriculum remain valid, and separately MIT-licensed utilities retain their terms.
 
 ## Capability creates opportunity
 
